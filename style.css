@@ -1,0 +1,17 @@
+table{
+    border: solid 4px;
+    color: white;
+    height:100px;
+}
+
+.informacao {
+    background-color: #BB86FC;
+}
+
+.produtos {
+    background-color: #424250;
+}
+
+.Casa {
+    background-color: #00C4B4;
+}
